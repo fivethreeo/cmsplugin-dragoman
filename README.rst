@@ -36,6 +36,8 @@ Add ::
 
 Set ``settings.DRAGOMAN_BLOG_ENTRY_MODEL`` to ``('cmsplugin_dragoman.dragoman_models.Entry', 'cmsplugin_dragoman')``.
 
+Add the apphook to a page in the cms.
+
 To join in development
 ----------------------
 

@@ -1,0 +1,4 @@
+recursive-include dragoman_blog/templates *
+recursive-include dragoman_blog/locale *
+recursive-include dragoman_blog/static *
+include README.rst

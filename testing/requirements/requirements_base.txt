@@ -1,0 +1,3 @@
+django-easytests
+https://github.com/fivethreeo/django-dragoman-blog/archive/develop.zip
+https://github.com/divio/django-cms/archive/develop.zip

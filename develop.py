@@ -10,7 +10,9 @@ settings = {
     'STATIC_URL': '/static/', 
     'INSTALLED_APPS': [
         'cmsplugin_dragoman_test_project',
+        'djangocms_text_ckeditor',
         'cms',
+        'cms.stacks',
         'mptt',
         'menus',
         'south',

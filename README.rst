@@ -17,7 +17,7 @@ For the development version:
 
 ::
 
-    pip install -e git+git://github.com/fivethreeo/cmsplugin-dragoman.git@develop#egg=cmsplugin-dragoman
+    pip install https://github.com/fivethreeo/cmsplugin-dragoman/archive/develop.zip
 
 
 Configuration

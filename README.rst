@@ -35,7 +35,7 @@ Add ::
 
 Set ``settings.DRAGOMAN_BLOG_ENTRY_MODEL`` to ``('cmsplugin_dragoman.dragoman_models.Entry', 'cmsplugin_dragoman')``.
 
-Add the apphook to a page in the cms.
+Add the apphook for each language to a page in the cms and make sure you publish it, restart the devserver.
 
 To join in development
 ----------------------

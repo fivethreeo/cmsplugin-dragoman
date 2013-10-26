@@ -29,8 +29,7 @@ Settings
 Add ::
 
     'dragoman_blog',
-    'dragoman_blog_admin',
-    'cmsplugin_dragoman_blog',
+    'cmsplugin_dragoman',
     'taggit',
 
 

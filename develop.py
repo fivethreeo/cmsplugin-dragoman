@@ -26,7 +26,6 @@ settings = {
         'django.contrib.messages',
         'django.contrib.staticfiles',
         'dragoman_blog',
-        'dragoman_blog_admin',
         'cmsplugin_dragoman',
         'taggit',
     ],

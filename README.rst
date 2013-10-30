@@ -28,8 +28,8 @@ Settings
 
 Add ::
 
-    'dragoman_blog',
     'cmsplugin_dragoman',
+    'dragoman_blog',
     'taggit',
 
 

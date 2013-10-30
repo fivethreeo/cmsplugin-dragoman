@@ -15,7 +15,7 @@ CLASSIFIERS = [
 
 setup(
     name='cmsplugin_dragoman',
-    version=dragoman_blog.get_version(),
+    version=cmsplugin_dragoman.get_version(),
     description='This is a Django CMS plugin for django-dragoman-blog',
     long_description=open(os.path.join(os.path.dirname(__file__), 'README.rst')).read(),
     author='Oyvind Saltvik',

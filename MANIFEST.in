@@ -1,4 +1,4 @@
-recursive-include dragoman_blog/templates *
-recursive-include dragoman_blog/locale *
-recursive-include dragoman_blog/static *
+recursive-include cmsplugin_dragoman/templates *
+recursive-include cmsplugin_dragoman/locale *
+recursive-include cmsplugin_dragoman/static *
 include README.rst

@@ -17,6 +17,10 @@ For the development version:
 
 ::
 
+    pip install https://github.com/divio/django-cms/archive/develop.zip
+
+    pip install https://github.com/fivethreeo/django-dragoman-blog/archive/develop.zip
+
     pip install https://github.com/fivethreeo/cmsplugin-dragoman/archive/develop.zip
 
 
